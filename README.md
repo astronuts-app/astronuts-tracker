@@ -11,6 +11,11 @@ Please feel free to:
 
 Look for the `priotized`, `work-in-progress`, `public-beta-available` labels to know the status of issues and their prioritization status.
 
+## Want features sooner?
+
+- Upvote an issue to have it queued up for development sooner.
+- Contact sales and support at support@astronuts.io
+
 ## Contributions
 
 We welcome contributions. Issues labelled with *ideal-for-contribution* are open for contribution. You can submit pull requests in Astronuts repositories that are opne sourced.
