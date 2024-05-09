@@ -18,5 +18,5 @@ Look for the `priotized`, `work-in-progress`, `public-beta-available` labels to 
 
 ## Contributions
 
-We welcome contributions. Issues labelled with *ideal-for-contribution* are open for contribution. You can submit pull requests in Astronuts repositories that are opne sourced.
+We welcome contributions. Issues labelled with *ideal-for-contribution* are open for contribution. You can submit pull requests in Astronuts repositories that are open sourced.
 
