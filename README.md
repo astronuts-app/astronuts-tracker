@@ -9,7 +9,7 @@ Please feel free to:
 
 ## What's prioritized
 
-Look for the `priotized`, `work-in-progress`, `public-beta-available` labels to know the status of issues and their prioritization status.
+Look for the `priotized`, `work-in-progress`, `assigned`, `public-beta-available` labels to know the status of issues and their prioritization status.
 
 ## Want features sooner?
 
