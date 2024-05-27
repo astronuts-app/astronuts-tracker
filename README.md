@@ -1,11 +1,11 @@
 # Astronuts Tracker
-This tracker maintains the roadmap for the [Astronuts](https://www.astronuts.io) suite of products and customer reported bugs.
+[This tracker](https://github.com/astronuts-app/astronuts-tracker/issues) maintains the roadmap for the [Astronuts](https://www.astronuts.io) suite of products and customer reported bugs.
 
 Please feel free to:
 
-- Put in your feature requests
-- Review list of items planned by Astronuts
-- Submit issues and bugs that you are facing with Astronuts products
+- [Put in your feature requests](https://github.com/astronuts-app/astronuts-tracker/issues/new)
+- [Review list of items planned by Astronuts](https://github.com/astronuts-app/astronuts-tracker/issues)
+- [Submit issues and bugs that you are facing with Astronuts products](https://github.com/astronuts-app/astronuts-tracker/issues/new)
 
 ## What's prioritized
 
