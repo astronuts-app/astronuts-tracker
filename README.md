@@ -18,5 +18,11 @@ Look for the `priotized`, `work-in-progress`, `assigned`, `public-beta-available
 
 ## Contributions
 
-We welcome contributions. Issues labelled with *ideal-for-contribution* are open for contribution. You can submit pull requests in Astronuts repositories that are Open Source.
+We welcome contributions. Issues labelled with *ideal-for-contribution* are open for contribution. You can submit pull requests in Astronuts repositories that are open source:
+- [Code Quality Action](https://github.com/astronuts-app/astronuts-code-quality-action)
+- [Antora UI](https://github.com/astronuts-app/antora-ui-astronuts)
+- [Log Monitoring Libraries](https://github.com/astronuts-app/log-monitoring)
+- [Docs](https://github.com/astronuts-app/astronuts-docs)
+- [This tracker](https://github.com/astronuts-app/astronuts-tracker)
+
 
