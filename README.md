@@ -25,4 +25,3 @@ We welcome contributions. Issues labelled with *ideal-for-contribution* are open
 - [Docs](https://github.com/astronuts-app/astronuts-docs)
 - [This tracker](https://github.com/astronuts-app/astronuts-tracker)
 
-
